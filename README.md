@@ -1,6 +1,6 @@
 # Trading Platform
 
-v0.1.0
+v0.2.0
 
 <!-- ![orders](https://gitlab.com/jobtarget/platform/platformorders/uploads/1999868ff5d8ab4e4479af2d15edab39/orders.png) -->
 
